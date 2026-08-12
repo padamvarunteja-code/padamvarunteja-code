@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Padam Varun Teja 👋
 
-<!--
-**padamvarunteja-code/padamvarunteja-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 2nd Year | Computer Science and Engineering (CSE)
+🏫 Marri Laxman Reddy Institute of Technology and Management
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a second-year Computer Science and Engineering student interested in programming, problem-solving, and technology. I'm continuously developing my technical skills and exploring how AI can be used to accomplish different tasks efficiently.
+
+🛠️ Skills & Technologies
+
+- C
+- Java
+- Python
+- SQL
+- Data Structures & Algorithms using C
+- AI Tools & Applications
+
+🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Problem Solving
+- C, Java & Python
+- SQL & Databases
+- Practical applications of AI
+
+🚀 Goals
+
+My goal is to strengthen my programming fundamentals, improve my problem-solving skills, build useful projects, and grow as a Computer Science professional.
+
+📌 My Journey
+
+I'm learning, building, and improving every day. Check out my repositories to follow my journey in technology. 🚀
