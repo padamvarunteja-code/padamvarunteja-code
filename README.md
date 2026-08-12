@@ -15,6 +15,7 @@ I'm a second-year Computer Science and Engineering student interested in program
 - SQL
 - Data Structures & Algorithms using C
 - AI Tools & Applications
+- 🤖 Artificial Intelligence — InternVision (Currently Learning)
 
 🌱 Currently Learning
 
